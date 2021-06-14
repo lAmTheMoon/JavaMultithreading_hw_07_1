@@ -1,7 +1,7 @@
 package hw_07_1;
 
-import hw_07_1.valueObgect.AmountOfCredit;
-import hw_07_1.valueObgect.DurationMounts;
+import hw_07_1.valueObject.AmountOfCredit;
+import hw_07_1.valueObject.DurationMounts;
 
 import java.math.BigDecimal;
 import java.util.List;

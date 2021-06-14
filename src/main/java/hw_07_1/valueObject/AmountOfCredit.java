@@ -1,4 +1,4 @@
-package hw_07_1.valueObgect;
+package hw_07_1.valueObject;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

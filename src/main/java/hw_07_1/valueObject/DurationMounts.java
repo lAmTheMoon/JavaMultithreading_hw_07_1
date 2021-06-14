@@ -1,4 +1,4 @@
-package hw_07_1.valueObgect;
+package hw_07_1.valueObject;
 
 public final class DurationMounts {
     private final int DURATION_MOUNTS;
